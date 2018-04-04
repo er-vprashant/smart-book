@@ -1,2 +1,2 @@
-# smart-book
-It is an Augmented reality based app for education
+# UnityAR
+AR app made with unity and Vuforia
